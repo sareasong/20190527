@@ -88,9 +88,6 @@ nav {
     text-align: right !important;
     position: fixed;
   }
-  #gallery div{
-    /* float: left; */
-  }
 }
 @media screen and (max-width: 1150px) {
 }
@@ -161,13 +158,6 @@ nav {
   .thumb {
     margin:0px !important;
   }
-}
-
-#gallery .sub_block {
-  /* float:left; */
-  clear: both;
-  margin:auto;
-  align-content: center;
 }
 
 #location table td.title{
