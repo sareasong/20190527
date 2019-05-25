@@ -160,13 +160,13 @@ nav {
   }
 }
 
-#location table td.title{
+table td.title{
   width:20%;
   background-color: #416e51;
   color:#FFFFFF;
   border:1px solid #416e51;
 }
-#location table td.content{
+table td.content{
   width:80%;
   text-align:left !important;
   border:1px solid #416e51;
